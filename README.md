@@ -5,5 +5,5 @@
 2. Register nodes -
   `> nodeRegister.bat`
 
-## Above commands create Selenium Grid 
+## Above commands create Selenium Grid infra
 ## access hub url - http://localhost:4444/wd/hub
